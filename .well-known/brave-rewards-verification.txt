@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: joaogsleite.github.io
+Token: 4d54934d880268896da36f44e64f271ba5e059f776991dc979b22e143a26d27a
